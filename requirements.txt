@@ -18,3 +18,5 @@ websockets==12.0           # compatible with supabase realtime deps
 # HTTP + env
 httpx==0.27.2              # compatible with supabase deps
 python-dotenv==1.0.1
+ollama>=0.3.0
+
